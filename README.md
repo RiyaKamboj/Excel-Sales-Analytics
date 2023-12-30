@@ -20,8 +20,7 @@
 - **Key Insights from various reports:** 
 
     **1.** _[Customer Performance Report](https://github.com/RiyaKamboj/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
-  
-           The key insights from the Customer Performance Report for the AtliQ Hardware are as follows:
+            The key insights from the Customer Performance Report for the AtliQ Hardware are as follows:
   
               -The report provides a comprehensive overview of the net sales performance of various customers for the years 2019, 2020, and 2021 in USD.
   
