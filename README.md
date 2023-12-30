@@ -19,7 +19,7 @@
 
 - **Key Insights from various reports:** 
 
-    **1.** _[Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **1.** _[Customer Performance Report](https://github.com/RiyaKamboj/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
   
            The key insights from the Customer Performance Report for the AtliQ Hardware are as follows:
   
