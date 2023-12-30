@@ -82,16 +82,16 @@
 
      **7.** _[Top and Bottom 5products by qty](https://github.com/RiyaKamboj/Excel-Sales-Analytics/blob/main/Top%20and%20Bottom%205%20by%20quantity.pdf)_
 
-  The key insights from Top and Bottom 5products by qty report for the AtliQ Hardware are as follows:
+            The key insights from Top and Bottom 5products by qty report for the AtliQ Hardware are as follows:
 
-  Top 5 Products by Quantity:
+            Top 5 Products by Quantity:
 
-  -The top 5 products by quantity are "AQ Master wired x1 Ms," "AQ Gamers Ms," "AQ Master wireless x1 Ms," "AQ Gamers," and "AQ Master wireless x1," with quantities of 4.2M, 4.0M, 4.1M, 3.4M, and 3.4M, respectively.
+                -The top 5 products by quantity are "AQ Master wired x1 Ms," "AQ Gamers Ms," "AQ Master wireless x1 Ms," "AQ Gamers," and "AQ Master wireless x1," with quantities of 4.2M, 4.0M, 4.1M, 3.4M, and 3.4M, respectively.
 
-  -These products have significantly higher quantities compared to other products, indicating strong demand for these items.
+                -These products have significantly higher quantities compared to other products, indicating strong demand for these items.
 
-   Bottom 5 Products by Quantity:
+            Bottom 5 Products by Quantity:
 
-   -The bottom 5 products by quantity are "AQ Gamer 1," "AQ GEN Z," "AQ Home Allin1," "AQ HOME Allin1 Gen 2," and "AQ Smash 2," with quantities of 51.7K, 63.1K, 15.2K, 8.9K, and 36.0K, respectively.
+               -The bottom 5 products by quantity are "AQ Gamer 1," "AQ GEN Z," "AQ Home Allin1," "AQ HOME Allin1 Gen 2," and "AQ Smash 2," with quantities of 51.7K, 63.1K, 15.2K, 8.9K, and 36.0K, respectively.
 
-   -These products have relatively lower quantities, suggesting lower demand or niche market positioning.
+               -These products have relatively lower quantities, suggesting lower demand or niche market positioning.
