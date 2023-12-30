@@ -95,3 +95,17 @@
                -The bottom 5 products by quantity are "AQ Gamer 1," "AQ GEN Z," "AQ Home Allin1," "AQ HOME Allin1 Gen 2," and "AQ Smash 2," with quantities of 51.7K, 63.1K, 15.2K, 8.9K, and 36.0K, respectively.
 
                -These products have relatively lower quantities, suggesting lower demand or niche market positioning.
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
