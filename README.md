@@ -37,3 +37,14 @@
               -The total sales of AtliQ Hardwares increased from 87.5 million USD in 2019 to 196.7 million USD in 2020, but decreased to 598.9 million USD in 2021, which is 8.4% less than the target.
   
               -Among the countries listed, India had the highest sales in 2021 with 161.3 million USD, followed by the USA with 87.8 million USD.
+
+    **3.** _[Top 10 Products](https://github.com/RiyaKamboj/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_
+
+            The key insights from Top 10 Products report for the AtliQ Hardware are as follows:
+
+              -The total sales for the top 10 products increased from 6.4 million USD in 2020 to 52.0 million USD in 2021, marking a significant growth of 808.0%.
+  
+               -Among the top 10 products, "AQ Electron 4 3600 Desktop Processor" and "AQ Smash 2" were the top performers in 2021, with sales of 19.4 million USD and 11.2 million USD, respectively.
+
+               -The product "AQ Mx NB" showed the highest percentage increase in sales, with a growth of 5723.5% from 2020 to 2021.
+  
