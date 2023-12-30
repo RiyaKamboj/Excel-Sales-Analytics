@@ -30,9 +30,10 @@
   
               -The report offers a detailed comparison of customer net sales from 2020 to 2021, enabling a clear understanding of the substantial sales growth for many 
                  customers.
-    **1.** _[market performance and sales targets](https://github.com/RiyaKamboj/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
+    **2.** _[Market Performance and Sales Targets](https://github.com/RiyaKamboj/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
            The key insights from Market Performance Vs Target report for the AtliQ Hardware are as follows:
   
               -The total sales of AtliQ Hardwares increased from 87.5 million USD in 2019 to 196.7 million USD in 2020, but decreased to 598.9 million USD in 2021, which is 8.4% less than the target.
+  
               -Among the countries listed, India had the highest sales in 2021 with 161.3 million USD, followed by the USA with 87.8 million USD.
